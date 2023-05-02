@@ -1,5 +1,5 @@
 # snake_cafe
-##lab 1 of 401
+## lab 01 o
 
 Project: Snake_Cafe
 
